@@ -1,0 +1,73 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #222;
+
+}
+
+.content {
+  width: 100%;
+  text-align: center;
+}
+
+.content .name {
+  height: 32px;
+  line-height: 30px;
+  margin-top:50px;
+}
+
+.content .name h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #c9c9c9;
+  font-size: 32px;
+  margin: 0px;
+}
+
+.content .kvalifikacije {
+	margin-top: 20px;
+}
+
+.content .kvalifikacije p {
+	color:  #0A96FF;
+	font-size: 14px;
+  margin-bottom:2px;
+}
+
+.content .kvalifikacije .title {
+	color:  white;
+	font-size: 16px;
+  margin-bottom:4px;
+  margin-top:7px;
+}
+
+.content p {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #c9c9c9;
+  font-size: 16px;
+  margin-top: 0px;
+}
+
+.content a {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background: transparent;
+  color: #c9c9c9;
+  border: 2px solid #c9c9c9;
+  display: inline-block;
+  padding: 10px 25px;
+  font-weight: 700;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+}
+
+.content a:hover {
+  color: #0A96FF;
+  border-color: #0A96FF;
+}
+
+.content .links {
+  margin-top: 30px;
+}
